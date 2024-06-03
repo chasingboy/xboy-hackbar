@@ -1,4 +1,5 @@
-# xboy:hackbar version 1.0.0
+# xboy-hackbar
+> version 1.0.0
 
 It was changed from hackvar v2.1.3
 
